@@ -7,4 +7,4 @@
 * [Editionen](erdmuthe/index.html)
 * [Seegemeine](seaCongregation/index.html)
 
-**Kontakt: martin[dot]prell[at]uni-jena[dot]de
+** Kontakt: martin[dot]prell[at]uni-jena[dot]de
