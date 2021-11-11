@@ -52,7 +52,33 @@ Auf methodischer Ebene fragt die Dissertation nach Mehrwerten, Chancen und Grenz
 * (2015) »Den Tauff=Actum beÿ hiesiger Geistlichkeit begehret«. Der Umgang der Stadt Leipzig mit taufwilligen Juden am Beispiel der mutmaßlichen ›Taufbetrüger‹ Rahel Hirschel und Joachim Jacob (1746/47), in: Zeitschrift für junge Religionswissenschaft [Online, peer reviewed] 10 (2015), Online erschienen am: 01 September 2015, URL : http://zjr.revues.org/361; DOI: 10.4000/zjr.361.
 * (2014) Bernhard Varen (1622-1650) - Pionier einer vergleichenden Religionswissenschaft?, Masterarbeit Universität Leipzig 2014, URL: https://www.db-thueringen.de/receive/dbt_mods_00032738; DOI: 10.22032/dbt.32738.
 * (2011) Landesherrlicher Pietismus unter Graf Heinrich II. (1696-1722) in Reuß-Obergreiz, Bachelorarbeit Friedrich-Schiller-Universität Jena 2011 (unveröffentlicht).
+<!-- # Tagungsorganisationen und Vorträge (Auswahl):
 
+* (2021) Organisation der internationalen digitalen Konferenz "Digital Humanities and Gender History" am 5., 12., 19. und 26. Februar (gemeinsam mit Gisela Mettele und Pia Marzell)
+* (2020) Organisation des digitalen Workshops "Transcribing − Encoding − Annotating: New Approaches of Technology and Methodology for Historical Sources in Crowd Sourcing and Citizen Science" am 26. und 27. November (gemeinsam mit Hendrikje Carius)
+* (2020) Organsiation und Moderation des Panels „Altbausanierung mit Niveau – die Digitalisierung gedruckter Editionen“ im Rahmen der Tagung des Verbands Digital Humanities im deutschsprachigen Raum (Dhd) 2020, Paderborn (gemeinsam mit Thomas Stäcker, Torsten Schaßen, Frederike Neuber, Dominik Kasper, Max Grüntgens und Martina Gödel)
+* (2019) Vortrag "Historical Sources of Women in the Digital Humanities - Overview and Automated Text Analysis" auf der Internationale Summer School der Digitalen Akademie Mainz -> Folien [pdf, 3 mb]
+* (2018) Vortrag "Ein generisches Editionsportal (nicht nur) für Thüringen" im Rahmen des Workshops "(Digitale) Publikationsformen" der AG eHumanities in der Sächsischen Akademie der Wissenschaften zu Leipzig (gemeinsam mit Julia Schmidt-Funke)
+* (2018) Vortrag zu "Die Bestimmung von Emotionen in Briefen pietistischer Schreiber*innen mit Hilfe computergestützter Verfahren" auf dem V. Internationalen Kongress für Pietismusforschung, 26.-29 August 2018 in Halle/Saale
+* (2018) Organisation des Fachtages Digital Humanities in Thüringen zum Thema "Daten vernetzen, Ressourcen verknüpfen. Neue Herausforderungen für den digitalen Wandel (nicht nur) in Thüringen", 9. August in Gotha (zusammen mit Hendrikje Carius, Swantje Dogunke und Julia Schmidt-Funke), Tagungsbericht: www.hsozkult.de/conferencereport/id/tagungsberichte-8015
+* (2017) Organisation des Thementages "Digital Humanities in Jena", 23. November, Jena (zusammen mit dem DHnet Jena); Tagungsbericht: www.hsozkult.de/conferencereport/id/tagungsberichte-7576
+* (2017) Organisation des Workshops "Editionsportale" vom 3. bis 4. August an der Universität Jena (zusammen mit Julia Schmidt-Funke) und Vortrag mit dem Titel "Das Editionsportal Thüringen - Idee, Ziele, Herausforderungen", Tagungsbericht: www.hsozkult.de/conferencereport/id/tagungsberichte-7350
+* (2015) Organisation des Workshops "Virtuelle Infrastrukturen für digitale Editionen. Entwicklungen, Perspektiven und Projekte" vom 12.-14. November 2015 an der Forschungsbibliothek Gotha (zusammen mit Hendrikje Carius, Forschungsbibliothek Gotha), Tagungsbericht: http://www.hsozkult.de/conferencereport/id/tagungsberichte-6575
+* (2015) Vortrag zum Thema "Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)" auf der Tagung "Digitale Metamorphose: Digital Humanities und Editionswissenschaft" vom 2.-4. November 2015 in der Herzog August Bibliothek Wolfenbüttel
+* (2015) Vortrag zum Thema "Selbstentwurf und Herrschaftspraxis. Die Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)" auf Interdisziplinärer Tagung "Gender - Pietismus - Adel" vom 21.-24. Oktober 2015 in den Franckeschen Stiftungen zu Halle.
+* (2015) Vortrag zum Thema "Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf" auf "22. Jahrestagung der ITUG" (international tustep user group) vom 7. bis 9. Oktober 2015 im Goethe- und Schiller-Archiv Weimar
+* (2015) Organisation der Tagung "Digital-Humanities in Thüringen" am 23. Juni 2015 an der Universität Erfurt (zusammen mit Hendrikje Carius, Forschungsbibliothek Gotha)
+
+-->
+<!-- # Funktionen
+* Gründungsmitglied des DHnet Jena
+* Mitglied in der AG Digitale Geschichtswissenschaft im VHD
+* Mitglied in der AG Digital Humanities Mitteldeutschland
+* Mitglied im Facharbeitskreis "Digitale Geisteswissenschaften in Sachsen"
+* Mitglied im "Netzwerk für Historische Grundwissenschaften" (NHG) der "Arbeitsgemeinschaft für Historische Grundwissenschaften" (AHiG)
+* Mitglied im Arbeitskreis "Gender und Pietismus" am Interdisziplinären Zentrum für Pietismusforschung in Halle/Saale
+* Mitglied im Netzwerk für digitale Geisteswissenschaften und Citizen Science
+-->
 <!--
 # Lehre
 Wintersemester 2020/21
