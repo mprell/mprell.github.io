@@ -14,13 +14,13 @@
 
 ## Forschung
 
-Forschungsbereiche:
+### Forschungsbereiche:
 * Digital Humanities (insb. Digital History, Digitale Editorik, Historische Netzwerkanalyse)
 * Frühneuzeitliche Religionsgeschichte (insb. Geschichte des Pietismus)
 * Paläographie (16.-20. Jh.)
 * Thüringisch-sächsische Landesgeschichte (insb. reußische Grafen- und Fürstentümer)
 
-Dissertationsprojekt: 
+### Dissertationsprojekt: 
 
 "Pietismusforschung 4.0? Möglichkeiten und Grenzen computergestützter Verfahren für die Religionsgeschichte am Beispiel des reußischen Korrespondenznetzwerks des 18. Jahrhunderts"
 
@@ -31,7 +31,7 @@ Die Rekonstruktion des reußisch-pietistischen Netzwerks und seiner Kommunikatio
 Auf methodischer Ebene fragt die Dissertation nach Mehrwerten, Chancen und Grenzen computergestützter Verfahren für die Religionsgeschichte. Dies wird anhand eines umfassenden Forschungsworkflows von der Modellierung und Erhebung der Forschungsdaten für die computergestützte Verarbeitung bis hin zur Visualisierung, Interpretation und Präsentation der Ergebnisse durchgeführt, dokumentiert, reflektiert und evaluiert. Die dafür ausgewählten digitalen Erhebungs- und Analyseverfahren umfassen einerseits die Historische Netzwerkanalyse. Dafür werden die in den Briefen enthaltenen Personenrelationen unter Anwendung eines dafür entwickelten forschungsgeleiteten Editionsmodells erfasst, angereichert und netzwerkanalytisch ausgewertet. Mit Anwendung der historischen Netzwerkanalyse knüpft die Dissertation an eine Forschungsrichtung an, die in den vergangenen Jahren eine enorme Verbreitung gefunden und dabei die zentrale Stellung des Briefes als konstituierendes Element (pietistischer) Netzwerke neu bewertet hat. Computerlinguistische Analysen (NLP) der Briefe konkretisieren die Beziehungen ausgewählter potentieller Mitglieder einer gemeinsamen religiösen Gruppe in ihrer Art und Intensität. So wird bspw. danach gefragt, ob als disparat wahrgenommene Strömungen und Personengruppen auch disparate Pools an bewussten und unbewussten Begriffen, Schlüsselwörtern, Themen und Narrativen, syntaktischen und semantischen Konventionen und Sprachmustern verwenden, über die Gruppenidentität und ein gemeinsamer religiöser Horizont sichtbar, ausgedrückt, verhandelt, gepflegt und erschaffen werden.
 
 
-# Publikationen
+## Publikationen
 ORCID ID: https://orcid.org/0000-0003-3152-6542
 
 * (In Vorbereitung) Zus. mit Paul Beckus, Marita Gruner, Thomas Grunewald, Sabrina Mögelin (Hg.): Digitale Edition des Reisetagebuchs Graf Heinrichs XI. Reuß-Greiz 1740-1742. In: Editionenportal Thüringen.
@@ -109,7 +109,6 @@ Sommersemester 2017
 Wintersemester 2015/16
 * Übung: Erschließung handschriftlicher Quellen der Neuzeit. Vom Archiv bis zur (digitalen) Edition (gemeinsam mit Julia A. Schmidt-Funke).
 -->
-
 
 # Digitale Religionsgeschichte
 
