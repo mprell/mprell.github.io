@@ -54,7 +54,8 @@ ORCID ID: https://orcid.org/0000-0003-3152-6542
 * (2015) »Den Tauff=Actum beÿ hiesiger Geistlichkeit begehret«. Der Umgang der Stadt Leipzig mit taufwilligen Juden am Beispiel der mutmaßlichen ›Taufbetrüger‹ Rahel Hirschel und Joachim Jacob (1746/47), in: Zeitschrift für junge Religionswissenschaft [Online, peer reviewed] 10 (2015), Online erschienen am: 01 September 2015, URL : http://zjr.revues.org/361; DOI: 10.4000/zjr.361.
 * (2014) Bernhard Varen (1622-1650) - Pionier einer vergleichenden Religionswissenschaft?, Masterarbeit Universität Leipzig 2014, URL: https://www.db-thueringen.de/receive/dbt_mods_00032738; DOI: 10.22032/dbt.32738.
 * (2011) Landesherrlicher Pietismus unter Graf Heinrich II. (1696-1722) in Reuß-Obergreiz, Bachelorarbeit Friedrich-Schiller-Universität Jena 2011 (unveröffentlicht).
-<!-- # Tagungsorganisationen und Vorträge (Auswahl):
+
+<!-- Tagungsorganisationen und Vorträge (Auswahl):
 
 * (2021) Organisation der internationalen digitalen Konferenz "Digital Humanities and Gender History" am 5., 12., 19. und 26. Februar (gemeinsam mit Gisela Mettele und Pia Marzell)
 * (2020) Organisation des digitalen Workshops "Transcribing − Encoding − Annotating: New Approaches of Technology and Methodology for Historical Sources in Crowd Sourcing and Citizen Science" am 26. und 27. November (gemeinsam mit Hendrikje Carius)
@@ -71,7 +72,7 @@ ORCID ID: https://orcid.org/0000-0003-3152-6542
 * (2015) Vortrag zum Thema "Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf" auf "22. Jahrestagung der ITUG" (international tustep user group) vom 7. bis 9. Oktober 2015 im Goethe- und Schiller-Archiv Weimar
 * (2015) Organisation der Tagung "Digital-Humanities in Thüringen" am 23. Juni 2015 an der Universität Erfurt (zusammen mit Hendrikje Carius, Forschungsbibliothek Gotha)
 
-# Funktionen
+Funktionen
 * Gründungsmitglied des DHnet Jena
 * Mitglied in der AG Digitale Geschichtswissenschaft im VHD
 * Mitglied in der AG Digital Humanities Mitteldeutschland
@@ -80,7 +81,7 @@ ORCID ID: https://orcid.org/0000-0003-3152-6542
 * Mitglied im Arbeitskreis "Gender und Pietismus" am Interdisziplinären Zentrum für Pietismusforschung in Halle/Saale
 * Mitglied im Netzwerk für digitale Geisteswissenschaften und Citizen Science
 
-# Lehre
+Lehre
 Wintersemester 2020/21
 * Lehreinheit: "Digitale Editionen und XML-TEI" im Rahmen des Seminars "Unterwegs in der Frühen Neuzeit. Ein digitales Projektseminar" von Prof. Dr. Julia Schmidt-Funke an der Friedrich-Alexander-Universität Erlangen-Nürnberg
 * Lehreinheit: "HTML: Grundlagen und Anwendung" in der Übung "Erfahrungen von Frauen auf Schiffsreisen. Übung zur Transkription eines Reisetagebuchs des 18. Jahrhunderts" von Prof. Dr. Gisela Mettele an der FSU Jena
