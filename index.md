@@ -71,8 +71,7 @@ ORCID ID: https://orcid.org/0000-0003-3152-6542
 * (2015) Vortrag zum Thema "Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf" auf "22. Jahrestagung der ITUG" (international tustep user group) vom 7. bis 9. Oktober 2015 im Goethe- und Schiller-Archiv Weimar
 * (2015) Organisation der Tagung "Digital-Humanities in Thüringen" am 23. Juni 2015 an der Universität Erfurt (zusammen mit Hendrikje Carius, Forschungsbibliothek Gotha)
 
--->
-<!-- # Funktionen
+# Funktionen
 * Gründungsmitglied des DHnet Jena
 * Mitglied in der AG Digitale Geschichtswissenschaft im VHD
 * Mitglied in der AG Digital Humanities Mitteldeutschland
@@ -80,8 +79,7 @@ ORCID ID: https://orcid.org/0000-0003-3152-6542
 * Mitglied im "Netzwerk für Historische Grundwissenschaften" (NHG) der "Arbeitsgemeinschaft für Historische Grundwissenschaften" (AHiG)
 * Mitglied im Arbeitskreis "Gender und Pietismus" am Interdisziplinären Zentrum für Pietismusforschung in Halle/Saale
 * Mitglied im Netzwerk für digitale Geisteswissenschaften und Citizen Science
--->
-<!--
+
 # Lehre
 Wintersemester 2020/21
 * Lehreinheit: "Digitale Editionen und XML-TEI" im Rahmen des Seminars "Unterwegs in der Frühen Neuzeit. Ein digitales Projektseminar" von Prof. Dr. Julia Schmidt-Funke an der Friedrich-Alexander-Universität Erlangen-Nürnberg
