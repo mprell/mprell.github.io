@@ -10,7 +10,8 @@
 * 07/2014 Master of Arts an der Universität Leipzig mit einer Arbeit zum Thema "Bernhard Varen (1622-1650) - Pionier einer vergleichenden Religionswissenschaft?", Betreuer: Prof. Dr. Christoph Kleine, Dr. Heinz Mürmel
 * 10/2011 - 07/2014 Masterstudium der Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig
 * 03/2011 Bachelor of Arts an der Friedrich-Schiller-Universität Jena mit einer Arbeit zum Thema "Landesherrlicher Pietismus unter Graf Heinrich II. (1696-1722) in Reuß-Obergreiz", Betreuer: Juniorprof. Dr. Alexander Schmidt, Prof. Dr. Uwe Schirmer
-10/2007 - 03/2011 Bachelorstudium der Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena
+10/2007
+* 03/2011 Bachelorstudium der Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena
 
 ## Forschung
 
