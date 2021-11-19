@@ -8,7 +8,7 @@
 * 2018 Dr.-Lieselotte-Kirchner-Stipendiat der Franckeschen Stiftungen zu Halle/Saale
 * 2016 Digital-Humanities-Stipendiat des Forschungsverbunds Marbach-Weimar-Wolfenbüttel an der Herzog August Bibliothek Wolfenbüttel
 * 2014 Master of Arts an der Universität Leipzig mit einer Arbeit zum Thema "Bernhard Varen (1622-1650) - Pionier einer vergleichenden Religionswissenschaft?", Betreuer: Prof. Dr. Christoph Kleine, Dr. Heinz Mürmel
-* 2011 - 2014 Masterstudium der Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig
+* 2011 – 2014 Masterstudium der Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig
 * 2011 Bachelor of Arts an der Friedrich-Schiller-Universität Jena mit einer Arbeit zum Thema "Landesherrlicher Pietismus unter Graf Heinrich II. (1696-1722) in Reuß-Obergreiz", Betreuer: Juniorprof. Dr. Alexander Schmidt, Prof. Dr. Uwe Schirmer
 * 2007 – 2011 Bachelorstudium der Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena
 
@@ -17,19 +17,18 @@
 ### Forschungsbereiche:
 * Digital Humanities (insb. Digital History, Digitale Editorik, Historische Netzwerkanalyse)
 * Frühneuzeitliche Religionsgeschichte (insb. Geschichte des Pietismus)
-* Paläographie (16.-20. Jh.)
+* Paläographie (16.–20. Jh.)
 * Thüringisch-sächsische Landesgeschichte (insb. reußische Grafen- und Fürstentümer)
 
 ### Dissertationsprojekt: 
 
 "Pietismusforschung 4.0? Möglichkeiten und Grenzen computergestützter Verfahren für die Religionsgeschichte am Beispiel des reußischen Korrespondenznetzwerks des 18. Jahrhunderts"
 
-Das von Prof. Dr. Gisela Mettele (Jena) betreute Promotionsprojekt verfolgt das Ziel, das Korrespondenznetzwerk des reußischen Pietismus des 18. Jahrhunderts in seiner Komplexität und Verwobenheit mit seinen zahlreichen Strömungen und Akteuren unterschiedlichster sozialer Schichten unter zu Hilfenahme computergestützter Methoden zu rekonstruieren. Die Dissertation beansprucht damit Relevanz für verschiedene Forschungsbereiche der Religionsgeschichte und der Digital-Humanities-Forschung. Sie tangiert einerseits die Forschungen zum Brief als einem zentralen Kommunikations- und Weltdeutungsmittel des Pietismus, die pietistische Netzwerk- und Sprachforschung und die Verhältnisbestimmung unterschiedlicher pietistischer Denominationen. Indem sie dabei die komplementäre Anwendung verschiedener digitaler Methoden erprobt, geht sie der Frage nach einer genuin digitalen Religionsgeschichte nach.
+Das von Prof. Dr. Gisela Mettele und JProf. Dr. Sander Münster betreute Promotionsprojekt verfolgt das Ziel, das Korrespondenznetzwerk des reußischen Pietismus des 18. Jahrhunderts in seiner Komplexität und Verwobenheit mit seinen zahlreichen Strömungen und Akteuren unterschiedlichster sozialer Schichten unter zu Hilfenahme computergestützter Methoden zu rekonstruieren. Die Dissertation beansprucht damit Relevanz für verschiedene Forschungsbereiche der Religionsgeschichte und der Digital-Humanities-Forschung. Sie tangiert einerseits die Forschungen zum Brief als einem zentralen Kommunikations- und Weltdeutungsmittel des Pietismus, die pietistische Netzwerk- und Sprachforschung und die Verhältnisbestimmung unterschiedlicher pietistischer Denominationen. Indem sie dabei die komplementäre Anwendung verschiedener digitaler Methoden erprobt, geht sie der Frage nach einer genuin digitalen Religionsgeschichte nach.
 
 Die Rekonstruktion des reußisch-pietistischen Netzwerks und seiner Kommunikation ist nicht allein aber zu großen Teilen Grundlagenforschung, da sie eine unerschlossene Quellenbasis aufbereitet und inhärente Strukturen sichtbar macht, die die Untersuchungsgrundlage für zahlreiche weitere Forschungsfragen bilden. Zugleich folgt sie einem konkreten religionsgeschichtlichen Erkenntnisinteresse, indem sie die religiöse Zugehörigkeit von Personen und Personenkreisen innerhalb verschiedener Strömungen einer Denomination/Religion am konkreten Beispiel des Pietismus sichtbar macht. Die Frage nach religiöser Verortung von Personen stellt sich insbesondere sowohl in Phasen der scheinbaren Auflösung konfessioneller Grenzen als auch Situationen scheinbarer religiöser Konkurrenz, wie sie nicht allein in den reußischen Territorien des 18. Jahrhunderts zu beobachten sind. Die Dissertation wird so an einem Modellfall demonstrieren, wie nur vermeintlich deutlich abgrenzbare religiöse Strömungen in ihrem Verhätlnis zueinander neu und genauer bestimmt werden können.
 
 Auf methodischer Ebene fragt die Dissertation nach Mehrwerten, Chancen und Grenzen computergestützter Verfahren für die Religionsgeschichte. Dies wird anhand eines umfassenden Forschungsworkflows von der Modellierung und Erhebung der Forschungsdaten für die computergestützte Verarbeitung bis hin zur Visualisierung, Interpretation und Präsentation der Ergebnisse durchgeführt, dokumentiert, reflektiert und evaluiert. Die dafür ausgewählten digitalen Erhebungs- und Analyseverfahren umfassen einerseits die Historische Netzwerkanalyse. Dafür werden die in den Briefen enthaltenen Personenrelationen unter Anwendung eines dafür entwickelten forschungsgeleiteten Editionsmodells erfasst, angereichert und netzwerkanalytisch ausgewertet. Mit Anwendung der historischen Netzwerkanalyse knüpft die Dissertation an eine Forschungsrichtung an, die in den vergangenen Jahren eine enorme Verbreitung gefunden und dabei die zentrale Stellung des Briefes als konstituierendes Element (pietistischer) Netzwerke neu bewertet hat. Computerlinguistische Analysen (NLP) der Briefe konkretisieren die Beziehungen ausgewählter potentieller Mitglieder einer gemeinsamen religiösen Gruppe in ihrer Art und Intensität. So wird bspw. danach gefragt, ob als disparat wahrgenommene Strömungen und Personengruppen auch disparate Pools an bewussten und unbewussten Begriffen, Schlüsselwörtern, Themen und Narrativen, syntaktischen und semantischen Konventionen und Sprachmustern verwenden, über die Gruppenidentität und ein gemeinsamer religiöser Horizont sichtbar, ausgedrückt, verhandelt, gepflegt und erschaffen werden.
-
 
 ## Publikationen
 ORCID ID: https://orcid.org/0000-0003-3152-6542
