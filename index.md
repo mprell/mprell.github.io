@@ -107,11 +107,12 @@ Sommersemester 2017
 
 Wintersemester 2015/16
 * Übung: Erschließung handschriftlicher Quellen der Neuzeit. Vom Archiv bis zur (digitalen) Edition (gemeinsam mit Julia A. Schmidt-Funke).
--->
+
 
 # Digitale Religionsgeschichte
 
 * [Editionen](erdmuthe/index.html)
-* [Seegemeine](seaCongregation/index.html)
+* [Seegemeine](seaCongregation/index.html) -->
 
-Kontakt: martin[dot]prell[at]uni-jena[dot]de
+## Kontakt
+martin[dot]prell[at]uni-jena[dot]de
