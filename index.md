@@ -33,6 +33,8 @@ Auf methodischer Ebene fragt die Dissertation nach Mehrwerten, Chancen und Grenz
 ## Publikationen
 ORCID ID: https://orcid.org/0000-0003-3152-6542
 
+Github: https://github.com/mprell
+
 * (In Vorbereitung) Zus. mit Paul Beckus, Marita Gruner, Thomas Grunewald, Sabrina Mögelin (Hg.): Digitale Edition des Reisetagebuchs Graf Heinrichs XI. Reuß-Greiz 1740-1742. In: Editionenportal Thüringen.
 * (In Vorbereitung) Zus. mit Hendrikje Carius und René Smolarski (Hg.): Citizen Science in Historical Sciences. Methodological Perspective or Method without Prospects? (= DH&CS. Schriften des Netzwerks für Digitale Geisteswissenschaften und Citizen Science, Bd. 3). Göttingen: Vandenhoeck & Ruprecht. Open Access.
 * (In Vorbereitung) Role-related Metadata in Correspondence, in: Stefan Dumont, Susanne Haaf und Sabine Seifert (Hg.): Handbuch "Encoding Correspondence".
