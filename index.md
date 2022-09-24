@@ -37,7 +37,6 @@ Github: https://github.com/mprell
 
 * (In Vorbereitung) Zus. mit Paul Beckus, Marita Gruner, Thomas Grunewald, Sabrina Mögelin (Hg.): Digitale Edition des Reisetagebuchs Graf Heinrichs XI. Reuß-Greiz 1740-1742. In: Editionenportal Thüringen.
 * (In Vorbereitung) Zus. mit Hendrikje Carius und René Smolarski (Hg.): Citizen Science in Historical Sciences. Methodological Perspective or Method without Prospects? (= DH&CS. Schriften des Netzwerks für Digitale Geisteswissenschaften und Citizen Science, Bd. 3). Göttingen: Vandenhoeck & Ruprecht. Open Access.
-* (In Vorbereitung) Role-related Metadata in Correspondence, in: Stefan Dumont, Susanne Haaf und Sabine Seifert (Hg.): Handbuch "Encoding Correspondence".
 * (2021) Zus. mit Gisela Mettele und Pia Marzell (Hg.): Digital Humanities and Gender History. Jena. Open Acess: https://www.db-thueringen.de/receive/dbt_mods_00048946.
 * (2021) Der Pietismus in den reußischen Grafschaften, in: Wolfgang Breul, Thomas Hahn-Bruckart (Hg.): Pietismus Handbuch, Tübingen: Mohr Siebeck, 260-264.
 * (2020) Zus. mit dem Lehrstuhl für Geschlechtergeschichte der Universität Jena: Moravians at Sea. Das Portal zur Erkundung Herrnhuter Seereisen des 18. Jahrhunderts (Pilotprojekt). URL: https://www.moravians-at-sea.uni-jena.de/.
