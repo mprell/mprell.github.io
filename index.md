@@ -31,10 +31,11 @@ Die Rekonstruktion des reußisch-pietistischen Netzwerks und seiner Kommunikatio
 Auf methodischer Ebene fragt die Dissertation nach Mehrwerten, Chancen und Grenzen computergestützter Verfahren für die Religionsgeschichte. Dies wird anhand eines umfassenden Forschungsworkflows von der Modellierung und Erhebung der Forschungsdaten für die computergestützte Verarbeitung bis hin zur Visualisierung, Interpretation und Präsentation der Ergebnisse durchgeführt, dokumentiert, reflektiert und evaluiert. Die dafür ausgewählten digitalen Erhebungs- und Analyseverfahren umfassen einerseits die Historische Netzwerkanalyse. Dafür werden die in den Briefen enthaltenen Personenrelationen unter Anwendung eines dafür entwickelten forschungsgeleiteten Editionsmodells erfasst, angereichert und netzwerkanalytisch ausgewertet. Mit Anwendung der historischen Netzwerkanalyse knüpft die Dissertation an eine Forschungsrichtung an, die in den vergangenen Jahren eine enorme Verbreitung gefunden und dabei die zentrale Stellung des Briefes als konstituierendes Element (pietistischer) Netzwerke neu bewertet hat. Computerlinguistische Analysen (NLP) der Briefe konkretisieren die Beziehungen ausgewählter potentieller Mitglieder einer gemeinsamen religiösen Gruppe in ihrer Art und Intensität. So wird bspw. danach gefragt, ob als disparat wahrgenommene Strömungen und Personengruppen auch disparate Pools an bewussten und unbewussten Begriffen, Schlüsselwörtern, Themen und Narrativen, syntaktischen und semantischen Konventionen und Sprachmustern verwenden, über die Gruppenidentität und ein gemeinsamer religiöser Horizont sichtbar, ausgedrückt, verhandelt, gepflegt und erschaffen werden.
 
 ## Publikationen
-ORCID ID: https://orcid.org/0000-0003-3152-6542
+ORCID-ID: https://orcid.org/0000-0003-3152-6542
 
-Github: https://github.com/mprell
+Forschungsdaten: https://github.com/mprell
 
+* (In Vorbereitung) Zus. mit Frederik Elwert und Markus Müller: Digitale Religionsgeschichte, in: Clio Guide. Ein Handbuch zu digitalen Ressourcen für die Geschichtswissenschaften. 3. Auflage.
 * (In Vorbereitung) Zus. mit Paul Beckus, Marita Gruner, Thomas Grunewald, Sabrina Mögelin (Hg.): Digitale Edition des Reisetagebuchs Graf Heinrichs XI. Reuß-Greiz 1740-1742. In: Editionenportal Thüringen.
 * (In Vorbereitung) Zus. mit Hendrikje Carius und René Smolarski (Hg.): Citizen Science in Historical Sciences. Methodological Perspective or Method without Prospects? (= DH&CS. Schriften des Netzwerks für Digitale Geisteswissenschaften und Citizen Science, Bd. 3). Göttingen: Vandenhoeck & Ruprecht. Open Access.
 * (2022) Moravians@Sea: A Website for Exploring and Experiencing Moravian Sea Voyages of the Eighteenth Century. In: Journal of Moravian History 22/2, S. 178-186.
