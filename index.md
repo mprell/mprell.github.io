@@ -1,6 +1,8 @@
 
 # Martin Prell
 
+`<a rel="me" href="https://fedihum.org/@mprell">Mastodon</a>`
+
 ## Vita
 * seit 2019 DH-Koordinator des Projekts ["PROPYLÄEN: Forschungsplattform zu Goethes Biographica"](https://goethe-biographica.de/) (Sächsische Akademie der Wissenschaften zu Leipzig / Goethe- und Schiller-Archiv Weimar)
 * 2014–2021 wiss. Mitarbeiter im Bereich Digital Humanities am Lehrstuhl für Geschlechtergeschichte bei Prof. Dr. Gisela Mettele, unter anderem in den DH-Projekten ["Editionenportal Thüringen"](http://www.editionenportal.de/), ["Moravians at Sea"](https://www.moravians-at-sea.uni-jena.de/), ["Automatische Handschriftenerkennung"](https://www.gw.uni-jena.de/fakult%C3%A4t/historisches+institut/bereiche/geschlechtergeschichte/projekte/automatische+handschriftenerkennung+fr%C3%BChneuzeitlicher+briefe+von+frauen), ["Digitale Edition des Reisetagebuchs Heinrichs XI. Reuß-Greiz"](https://www.gw.uni-jena.de/edition_reisetagebuch) und ["Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)](http://erdmuthe.thulb.uni-jena.de)
