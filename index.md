@@ -1,7 +1,7 @@
 
 # Martin Prell
 
-`<a rel="me" style="display:none" href="https://fedihum.org/@mprell">Mastodon</a>`
+<a rel="me" style="display:none" href="https://fedihum.org/@mprell">Mastodon</a>
 
 ## Vita
 * seit 2019 DH-Koordinator des Projekts ["PROPYLÄEN: Forschungsplattform zu Goethes Biographica"](https://goethe-biographica.de/) (Sächsische Akademie der Wissenschaften zu Leipzig / Goethe- und Schiller-Archiv Weimar)
