@@ -39,7 +39,7 @@ Forschungsdaten: https://github.com/mprell
 
 * (In Vorbereitung) Zus. mit Frederik Elwert und Markus Müller: Digitale Religionsgeschichte, in: Clio Guide. Ein Handbuch zu digitalen Ressourcen für die Geschichtswissenschaften. 3. Auflage.
 * (In Vorbereitung) Zus. mit Paul Beckus, Marita Gruner, Thomas Grunewald, Sabrina Mögelin (Hg.): Digitale Edition des Reisetagebuchs Graf Heinrichs XI. Reuß-Greiz 1740-1742. In: Editionenportal Thüringen.
-* (In Vorbereitung) Zus. mit Hendrikje Carius und René Smolarski (Hg.): Citizen Science in Historical Sciences. Methodological Perspective or Method without Prospects? (= DH&CS. Schriften des Netzwerks für Digitale Geisteswissenschaften und Citizen Science, Bd. 3). Göttingen: Vandenhoeck & Ruprecht. Open Access.
+* (2023) Zus. mit Hendrikje Carius und René Smolarski (Hg.): Citizen Science in Historical Sciences. Methodological Perspective or Method without Prospects? (= DH&CS. Schriften des Netzwerks für Digitale Geisteswissenschaften und Citizen Science, Bd. 3). Göttingen: Vandenhoeck & Ruprecht. Open Access: https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/geschichte/zeitgeschichte-ab-1949/58230/citizen-science-in-den-geschichtswissenschaften
 * (2022) Moravians@Sea: A Website for Exploring and Experiencing Moravian Sea Voyages of the Eighteenth Century. In: Journal of Moravian History 22/2, S. 178-186.
 * (2021) Zus. mit Gisela Mettele und Pia Marzell (Hg.): Digital Humanities and Gender History. Jena. Open Acess: https://www.db-thueringen.de/receive/dbt_mods_00048946.
 * (2021) Der Pietismus in den reußischen Grafschaften, in: Wolfgang Breul, Thomas Hahn-Bruckart (Hg.): Pietismus Handbuch, Tübingen: Mohr Siebeck, 260-264.
