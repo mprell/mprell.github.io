@@ -37,7 +37,7 @@ ORCID-ID: https://orcid.org/0000-0003-3152-6542
 
 Forschungsdaten: https://github.com/mprell
 
-* (In Vorbereitung) Zus. mit Frederik Elwert und Markus Müller: Digitale Religionsgeschichte, in: Clio Guide. Ein Handbuch zu digitalen Ressourcen für die Geschichtswissenschaften. 3. Auflage.
+* Zus. mit Frederik Elwert und Markus Müller: Europäische Religionsgeschichte der Neuzeit in: Clio Guide – Ein Handbuch zu digitalen Ressourcen für die Geschichtswissenschaften, hrsg. von Silvia Daniel, Wilfried Enderle, Rüdiger Hohls, Thomas Meyer, Jens Prellwitz, Claudia Prinz, Annette Schuhmann, Silke Schwandt, 3. erw. und aktualisierte Aufl., Berlin 2023–2024, https://doi.org/10.60693/hx7v-he22.
 * (In Vorbereitung) Zus. mit Paul Beckus, Marita Gruner, Thomas Grunewald, Sabrina Mögelin (Hg.): Digitale Edition des Reisetagebuchs Graf Heinrichs XI. Reuß-Greiz 1740-1742. In: Editionenportal Thüringen.
 * (2023) Zus. mit Hendrikje Carius und René Smolarski (Hg.): Citizen Science in Historical Sciences. Methodological Perspective or Method without Prospects? (= DH&CS. Schriften des Netzwerks für Digitale Geisteswissenschaften und Citizen Science, Bd. 3). Göttingen: Vandenhoeck & Ruprecht. Open Access: https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/geschichte/zeitgeschichte-ab-1949/58230/citizen-science-in-den-geschichtswissenschaften
 * (2022) Moravians@Sea: A Website for Exploring and Experiencing Moravian Sea Voyages of the Eighteenth Century. In: Journal of Moravian History 22/2, S. 178-186.
