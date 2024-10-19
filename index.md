@@ -4,7 +4,7 @@
 <a rel="me" style="display:none" href="https://fedihum.org/@mprell">Mastodon</a>
 
 ## Aktuelle Projekte:
-- Moravians at Sea [https://mprell.github.io/moravians-at-sea-Prod/index.html]
+- [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
 - [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
 - Diss
 
