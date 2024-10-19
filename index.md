@@ -44,6 +44,7 @@ ORCID-ID: https://orcid.org/0000-0003-3152-6542
 
 Forschungsdaten: https://github.com/mprell
 
+* (2024) What You See Is What You … Have to Revise Afterwards. Digital Humanities Lab. DOI: [10.58079/12960](https://doi.org/10.58079/12960)
 * (2024) Zus. mit Paul Beckus, Marita Gruner, Thomas Grunewald, Sabrina Mögelin (Hg.): Digitale Edition des Reisetagebuchs Graf Heinrichs XI. Reuß-Greiz 1740-1742. Work in Progress. URN: [urn:nbn:de:kobv:b4-35181-7](http://www.nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:de:kobv:b4-35181-7)
 * (2024) Zus. mit Frederik Elwert und Markus Müller: Europäische Religionsgeschichte der Neuzeit in: Clio Guide – Ein Handbuch zu digitalen Ressourcen für die Geschichtswissenschaften, hrsg. von Silvia Daniel, Wilfried Enderle, Rüdiger Hohls, Thomas Meyer, Jens Prellwitz, Claudia Prinz, Annette Schuhmann, Silke Schwandt, 3. erw. und aktualisierte Aufl., Berlin 2023–2024, DOI: [10.60693/hx7v-he22](https://doi.org/10.60693/hx7v-he22).
 * (2023) Zus. mit Hendrikje Carius und René Smolarski (Hg.): Citizen Science in Historical Sciences. Methodological Perspective or Method without Prospects? (= DH&CS. Schriften des Netzwerks für Digitale Geisteswissenschaften und Citizen Science, Bd. 3). Göttingen: Vandenhoeck & Ruprecht. [Open Access](https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/geschichte/zeitgeschichte-ab-1949/58230/citizen-science-in-den-geschichtswissenschaften?c=1548).
