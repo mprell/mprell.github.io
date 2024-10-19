@@ -3,6 +3,11 @@
 
 <a rel="me" style="display:none" href="https://fedihum.org/@mprell">Mastodon</a>
 
+## Aktuelle Projekte:
+- Moravians at Sea [https://mprell.github.io/moravians-at-sea-Prod/index.html]
+- [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
+- Diss
+
 ## Vita
 * seit 2019 DH-Koordination und Data Science im Projekt ["PROPYLÄEN: Forschungsplattform zu Goethes Biographica"](https://goethe-biographica.de/) (Sächsische Akademie der Wissenschaften zu Leipzig / Goethe- und Schiller-Archiv Weimar)
 * 2024 [HERMES](https://hermes-hub.de/)-Stipendiat am IEG Mainz
