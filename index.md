@@ -130,4 +130,4 @@ Wintersemester 2015/16
 * [Seegemeine](seaCongregation/index.html) -->
 
 ## Kontakt
-martin[dot]prell[at]uni-jena[dot]de
+martin[dot]prell[at]gmx[dot]net
