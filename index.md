@@ -131,5 +131,3 @@ Wintersemester 2015/16
 
 ## Kontakt
 martin[dot]prell[at]gmx[dot]net
-
-<script async="async" defer="defer" src="https://scripts.withcabin.com/hello.js"></script>
