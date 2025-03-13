@@ -44,6 +44,7 @@ ORCID-ID: https://orcid.org/0000-0003-3152-6542
 
 Forschungsdaten: https://github.com/mprell
 
+* (2025) Zus. mit Anna Busch und Torsten Roeder: "Die Hölle, das sind die anderen." Crowdsourcing in digitalen Editionen. Conference Paper und Poster auf der Tagung des "Digital Humanities im deutschsprachigen Raum e.V.", Bielefeld 2025. DOI Beitrag: [10.5281/zenodo.14943273](https://doi.org/10.5281/zenodo.14943273); DOI Poster: [10.5281/zenodo.14944584](https://zenodo.org/records/14944585) 
 * (2024) What You See Is What You … Have to Revise Afterwards. Digital Humanities Lab. DOI: [10.58079/12960](https://doi.org/10.58079/12960)
 * (2024) Zus. mit Paul Beckus, Marita Gruner, Thomas Grunewald, Sabrina Mögelin (Hg.): Digitale Edition des Reisetagebuchs Graf Heinrichs XI. Reuß-Greiz 1740-1742. Work in Progress. URN: [urn:nbn:de:kobv:b4-35181-7](http://www.nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:de:kobv:b4-35181-7)
 * (2024) Zus. mit Frederik Elwert und Markus Müller: Europäische Religionsgeschichte der Neuzeit in: Clio Guide – Ein Handbuch zu digitalen Ressourcen für die Geschichtswissenschaften, hrsg. von Silvia Daniel, Wilfried Enderle, Rüdiger Hohls, Thomas Meyer, Jens Prellwitz, Claudia Prinz, Annette Schuhmann, Silke Schwandt, 3. erw. und aktualisierte Aufl., Berlin 2023–2024, DOI: [10.60693/hx7v-he22](https://doi.org/10.60693/hx7v-he22).
