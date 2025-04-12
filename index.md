@@ -6,7 +6,7 @@
 ## Aktuelle Projekte
 - [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
 - [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
-- Diss
+- Dissertation zum Thema"Sozioreligiöse Nähe ermitteln: Eine Netzwerkanalyse zur Verortung der pietistischen Gräfin Erdmuthe Benigna von Reuß-Ebersdorf (1670-1732)" (Betreuung: Prof. Dr Aline Deicke, Marburg; Prof. Dr. Sander Münster, Jena)
 
 ## Vita
 * seit 2019 DH-Koordination und Data Science im Projekt ["PROPYLÄEN: Forschungsplattform zu Goethes Biographica"](https://goethe-biographica.de/) (Sächsische Akademie der Wissenschaften zu Leipzig / Goethe- und Schiller-Archiv Weimar)
@@ -29,6 +29,7 @@
 * Paläographie (16.–20. Jh.)
 * Thüringisch-sächsische Landesgeschichte (insb. reußische Grafen- und Fürstentümer)
 
+<!--
 ### Dissertationsprojekt: 
 
 "Pietismusforschung 4.0? Möglichkeiten und Grenzen computergestützter Verfahren für die Religionsgeschichte am Beispiel des reußischen Korrespondenznetzwerks des 18. Jahrhunderts"
@@ -38,6 +39,7 @@ Das von Prof. Dr. Aline Deicke und Prof. Dr. Sander Münster betreute Promotions
 Die Rekonstruktion des reußisch-pietistischen Netzwerks und seiner Kommunikation ist nicht allein aber zu großen Teilen Grundlagenforschung, da sie eine unerschlossene Quellenbasis aufbereitet und inhärente Strukturen sichtbar macht, die die Untersuchungsgrundlage für zahlreiche weitere Forschungsfragen bilden. Zugleich folgt sie einem konkreten religionsgeschichtlichen Erkenntnisinteresse, indem sie die religiöse Zugehörigkeit von Personen und Personenkreisen innerhalb verschiedener Strömungen einer Denomination/Religion am konkreten Beispiel des Pietismus sichtbar macht. Die Frage nach religiöser Verortung von Personen stellt sich insbesondere sowohl in Phasen der scheinbaren Auflösung konfessioneller Grenzen als auch Situationen scheinbarer religiöser Konkurrenz, wie sie nicht allein in den reußischen Territorien des 18. Jahrhunderts zu beobachten sind. Die Dissertation wird so an einem Modellfall demonstrieren, wie nur vermeintlich deutlich abgrenzbare religiöse Strömungen in ihrem Verhätlnis zueinander neu und genauer bestimmt werden können.
 
 Auf methodischer Ebene fragt die Dissertation nach Mehrwerten, Chancen und Grenzen computergestützter Verfahren für die Religionsgeschichte. Dies wird anhand eines umfassenden Forschungsworkflows von der Modellierung und Erhebung der Forschungsdaten für die computergestützte Verarbeitung bis hin zur Visualisierung, Interpretation und Präsentation der Ergebnisse durchgeführt, dokumentiert, reflektiert und evaluiert. Die dafür ausgewählten digitalen Erhebungs- und Analyseverfahren umfassen einerseits die Historische Netzwerkanalyse. Dafür werden die in den Briefen enthaltenen Personenrelationen unter Anwendung eines dafür entwickelten forschungsgeleiteten Editionsmodells erfasst, angereichert und netzwerkanalytisch ausgewertet. Mit Anwendung der historischen Netzwerkanalyse knüpft die Dissertation an eine Forschungsrichtung an, die in den vergangenen Jahren eine enorme Verbreitung gefunden und dabei die zentrale Stellung des Briefes als konstituierendes Element (pietistischer) Netzwerke neu bewertet hat. Computerlinguistische Analysen (NLP) der Briefe konkretisieren die Beziehungen ausgewählter potentieller Mitglieder einer gemeinsamen religiösen Gruppe in ihrer Art und Intensität. So wird bspw. danach gefragt, ob als disparat wahrgenommene Strömungen und Personengruppen auch disparate Pools an bewussten und unbewussten Begriffen, Schlüsselwörtern, Themen und Narrativen, syntaktischen und semantischen Konventionen und Sprachmustern verwenden, über die Gruppenidentität und ein gemeinsamer religiöser Horizont sichtbar, ausgedrückt, verhandelt, gepflegt und erschaffen werden.
+-->
 
 ## Publikationen
 ORCID-ID: https://orcid.org/0000-0003-3152-6542
