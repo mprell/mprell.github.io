@@ -44,6 +44,7 @@ ORCID-ID: https://orcid.org/0000-0003-3152-6542
 
 Forschungsdaten: https://github.com/mprell
 
+* (2025) Abschlussbericht über die erzielten Arbeitsergebnisse des Projektes "Moravians@Sea 2.0". DOI: [10.5281/zenodo.15162541](https://doi.org/10.5281/zenodo.15162541).
 * (2025) Zus. mit Christian Thomas, Katharina Hofmann-Polster und Claudia Häfner: FAIRe Forschungsdaten aus Goethes Posteingang: Die ersten 2400 An-Briefe als TEI-XML-Volltexte. Conference Paper und Poster auf der Tagung des "Digital Humanities im deutschsprachigen Raum e.V.", Bielefeld 2025. DOI Paper: [10.5281/zenodo.14943016](https://zenodo.org/records/14943016); DOI Poster: [10.5281/zenodo.14944569](https://zenodo.org/records/14944569).
 * (2025) Zus. mit Anna Busch und Torsten Roeder: "Die Hölle, das sind die anderen." Crowdsourcing in digitalen Editionen. Conference Paper und Poster auf der Tagung des "Digital Humanities im deutschsprachigen Raum e.V.", Bielefeld 2025. DOI Paper: [10.5281/zenodo.14943274](https://zenodo.org/records/14943274); DOI Poster (mit Erstplatzierung im Poster-Award): [10.5281/zenodo.14944585](https://zenodo.org/records/14944585).
 * (2024) What You See Is What You … Have to Revise Afterwards. Digital Humanities Lab. DOI: [10.58079/12960](https://doi.org/10.58079/12960)
