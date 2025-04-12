@@ -6,7 +6,7 @@
 ## Aktuelle Projekte
 - [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
 - [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
-- Dissertation zum Thema"Sozioreligiöse Nähe ermitteln: Eine Netzwerkanalyse zur Verortung der pietistischen Gräfin Erdmuthe Benigna von Reuß-Ebersdorf (1670-1732)" (Betreuung: Prof. Dr Aline Deicke, Marburg; Prof. Dr. Sander Münster, Jena)
+- Dissertation zum Thema "Sozioreligiöse Nähe ermitteln: Eine Netzwerkanalyse zur Verortung der pietistischen Gräfin Erdmuthe Benigna von Reuß-Ebersdorf (1670–1732)" (Betreuung: Prof. Dr Aline Deicke, Marburg; Prof. Dr. Sander Münster, Jena)
 
 ## Vita
 * seit 2019 DH-Koordination und Data Science im Projekt ["PROPYLÄEN: Forschungsplattform zu Goethes Biographica"](https://goethe-biographica.de/) (Sächsische Akademie der Wissenschaften zu Leipzig / Goethe- und Schiller-Archiv Weimar)
