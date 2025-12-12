@@ -141,55 +141,74 @@ martin[dot]prell[at]gmx[dot]net
 
 ---
 
-## Impressum
-Angaben gemäß § 5 DDG
+## Impressum & Datenschutz {#impressum}
 
-**Name:** Martin Prell  
-**Anschrift:** Jenaer Str. 1, 99425 Weimar, Deutschland  
-**E-Mail:** martin[dot]prell[at]gmx[dot]net
+<details>
+  <summary><strong>Impressum</strong></summary>
 
-### Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
-Martin Prell, Anschrift wie oben.
+  <p><strong>Angaben gemäß § 5 DDG</strong></p>
 
-## Datenschutzerklärung
+  <p>
+    <strong>Martin Prell</strong><br>
+    Jenaer Str. 1<br>
+    99425 Weimar<br>
+    Deutschland<br>
+    E-Mail: martin[dot]prell[at]gmx[dot]net
+  </p>
 
-### Hosting über GitHub Pages
-Diese Website wird über **GitHub Pages**, einen Dienst der  
-**GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA**,  
-betrieben.
+  <p>
+    <strong>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</strong><br>
+    Martin Prell, Anschrift wie oben.
+  </p>
+</details>
 
-Beim Aufruf dieser Website werden durch GitHub automatisch Informationen in sogenannten **Server-Logfiles** erhoben und gespeichert. Diese Daten können insbesondere umfassen:
-- IP-Adresse  
-- Datum und Uhrzeit des Zugriffs  
-- Browsertyp und -version  
-- verwendetes Betriebssystem  
-- Referrer-URL  
+<details>
+  <summary><strong>Datenschutzerklärung</strong></summary>
 
-Die Verarbeitung erfolgt zur **Bereitstellung und Sicherheit der Website**.
+  <p><strong>Verantwortlicher</strong><br>
+    Martin Prell, Anschrift und Kontakt wie im Impressum.
+  </p>
 
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).
+  <p><strong>Hosting über GitHub Pages</strong><br>
+    Diese Website wird über GitHub Pages, einen Dienst der GitHub, Inc.,
+    88 Colin P Kelly Jr St, San Francisco, CA 94107, USA, betrieben.
+  </p>
 
-Weitere Informationen zum Datenschutz bei GitHub:  
-https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
+  <p>
+    Beim Aufruf dieser Website werden durch GitHub automatisch Informationen in
+    sogenannten Server-Logfiles erhoben und gespeichert. Diese Daten können
+    insbesondere umfassen: IP-Adresse, Datum und Uhrzeit des Zugriffs,
+    Browsertyp/-version, verwendetes Betriebssystem, Referrer-URL.
+  </p>
 
-### Keine Cookies und kein Tracking
-Diese Website verwendet **keine Cookies**, **keine Analyse- oder Tracking-Tools** und **kein Profiling**.
+  <p>
+    Die Verarbeitung erfolgt zur Bereitstellung und Sicherheit der Website.<br>
+    <strong>Rechtsgrundlage:</strong> Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).
+  </p>
 
-### Externe Links
-Diese Website enthält Links zu externen Websites Dritter (z. B. Projektseiten, GitHub, Zenodo, ORCID).
+  <p>
+    <strong>Keine Cookies und kein Tracking</strong><br>
+    Diese Website verwendet keine Cookies, keine Analyse- oder Tracking-Tools und kein Profiling.
+  </p>
 
-Beim Anklicken eines externen Links verlassen Sie diese Website. Für die Verarbeitung personenbezogener Daten auf den verlinkten Seiten ist ausschließlich der jeweilige Betreiber verantwortlich.
+  <p>
+    <strong>Externe Links</strong><br>
+    Diese Website enthält Links zu externen Websites Dritter (z. B. Projektseiten, GitHub, Zenodo, ORCID).
+    Beim Anklicken eines externen Links verlassen Sie diese Website. Für die Verarbeitung personenbezogener
+    Daten auf den verlinkten Seiten ist ausschließlich der jeweilige Betreiber verantwortlich.
+  </p>
 
-**Rechtsgrundlage:**  
-Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).
+  <p>
+    <strong>Rechte der betroffenen Personen</strong><br>
+    Sie haben das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16 DSGVO), Löschung (Art. 17 DSGVO),
+    Einschränkung (Art. 18 DSGVO) sowie Widerspruch (Art. 21 DSGVO). Zudem besteht ein Beschwerderecht bei
+    einer Datenschutzaufsichtsbehörde.
+  </p>
 
-### Rechte der betroffenen Personen
+  <p><em>Stand: Dezember 2025</em></p>
 
-Sie haben das Recht auf Auskunft über Ihre gespeicherten personenbezogenen Daten
-(Art. 15 DSGVO), auf Berichtigung unrichtiger Daten (Art. 16 DSGVO), auf Löschung
-(Art. 17 DSGVO), auf Einschränkung der Verarbeitung (Art. 18 DSGVO) sowie auf
-Widerspruch gegen die Verarbeitung (Art. 21 DSGVO).
-
-Zudem besteht ein Beschwerderecht bei einer Datenschutzaufsichtsbehörde.
-
-*Stand: Dezember 2025*
+  <p>
+    Weitere Informationen zum Datenschutz bei GitHub:<br>
+    https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
+  </p>
+</details>
