@@ -181,4 +181,15 @@ Diese Website enthält Links zu externen Websites Dritter (z. B. Projektseiten, 
 Beim Anklicken eines externen Links verlassen Sie diese Website. Für die Verarbeitung personenbezogener Daten auf den verlinkten Seiten ist ausschließlich der jeweilige Betreiber verantwortlich.
 
 **Rechtsgrundlage:**  
-Art. 6 Abs. 1 lit. b DSGVO oder Art. 6 Abs. 1 lit. f DSGVO.
+Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).
+
+### Rechte der betroffenen Personen
+
+Sie haben das Recht auf Auskunft über Ihre gespeicherten personenbezogenen Daten
+(Art. 15 DSGVO), auf Berichtigung unrichtiger Daten (Art. 16 DSGVO), auf Löschung
+(Art. 17 DSGVO), auf Einschränkung der Verarbeitung (Art. 18 DSGVO) sowie auf
+Widerspruch gegen die Verarbeitung (Art. 21 DSGVO).
+
+Zudem besteht ein Beschwerderecht bei einer Datenschutzaufsichtsbehörde.
+
+*Stand: Dezember 2025*
