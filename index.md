@@ -151,7 +151,7 @@ Angaben gemäß § 5 DDG
 ### Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 Martin Prell, Anschrift wie oben.
 
-## Datenschutzerklärung {#datenschutz}
+## Datenschutzerklärung
 
 ### Hosting über GitHub Pages
 Diese Website wird über **GitHub Pages**, einen Dienst der  
@@ -178,7 +178,7 @@ Diese Website verwendet **keine Cookies**, **keine Analyse- oder Tracking-Tools*
 ### Externe Links
 Diese Website enthält Links zu externen Websites Dritter (z. B. Projektseiten, GitHub, Zenodo, ORCID).
 
-Beim Anklicken eines externen Links verlässt du diese Website. Für die Verarbeitung personenbezogener Daten auf den verlinkten Seiten ist ausschließlich der jeweilige Betreiber verantwortlich.
+Beim Anklicken eines externen Links verlassen Sie diese Website. Für die Verarbeitung personenbezogener Daten auf den verlinkten Seiten ist ausschließlich der jeweilige Betreiber verantwortlich.
 
 **Rechtsgrundlage:**  
 Art. 6 Abs. 1 lit. b DSGVO oder Art. 6 Abs. 1 lit. f DSGVO.
