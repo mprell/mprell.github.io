@@ -145,8 +145,40 @@ martin[dot]prell[at]gmx[dot]net
 Angaben gemäß § 5 DDG
 
 **Name:** Martin Prell  
-**Anschrift:** Jenaer Str. 1, 99425 Weimar  
+**Anschrift:** Jenaer Str. 1, 99425 Weimar, Deutschland  
 **E-Mail:** martin[dot]prell[at]gmx[dot]net
 
 ### Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 Martin Prell, Anschrift wie oben.
+
+## Datenschutzerklärung {#datenschutz}
+
+### Hosting über GitHub Pages
+Diese Website wird über **GitHub Pages**, einen Dienst der  
+**GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA**,  
+betrieben.
+
+Beim Aufruf dieser Website werden durch GitHub automatisch Informationen in sogenannten **Server-Logfiles** erhoben und gespeichert. Diese Daten können insbesondere umfassen:
+- IP-Adresse  
+- Datum und Uhrzeit des Zugriffs  
+- Browsertyp und -version  
+- verwendetes Betriebssystem  
+- Referrer-URL  
+
+Die Verarbeitung erfolgt zur **Bereitstellung und Sicherheit der Website**.
+
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).
+
+Weitere Informationen zum Datenschutz bei GitHub:  
+https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
+
+### Keine Cookies und kein Tracking
+Diese Website verwendet **keine Cookies**, **keine Analyse- oder Tracking-Tools** und **kein Profiling**.
+
+### Externe Links
+Diese Website enthält Links zu externen Websites Dritter (z. B. Projektseiten, GitHub, Zenodo, ORCID).
+
+Beim Anklicken eines externen Links verlässt du diese Website. Für die Verarbeitung personenbezogener Daten auf den verlinkten Seiten ist ausschließlich der jeweilige Betreiber verantwortlich.
+
+**Rechtsgrundlage:**  
+Art. 6 Abs. 1 lit. b DSGVO oder Art. 6 Abs. 1 lit. f DSGVO.
