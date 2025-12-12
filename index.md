@@ -138,3 +138,15 @@ Wintersemester 2015/16
 
 ## Kontakt
 martin[dot]prell[at]gmx[dot]net
+
+---
+
+## Impressum
+Angaben gemäß § 5 DDG
+
+**Name:** Martin Prell  
+**Anschrift:** Jenaer Str. 1, 99425 Weimar  
+**E-Mail:** martin[dot]prell[at]gmx[dot]net
+
+### Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
+Martin Prell, Anschrift wie oben.
