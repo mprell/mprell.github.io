@@ -141,7 +141,7 @@ martin[dot]prell[at]gmx[dot]net
 
 ---
 
-## Impressum & Datenschutz {#impressum}
+## Impressum & Datenschutz
 
 <details>
   <summary><strong>Impressum</strong></summary>
