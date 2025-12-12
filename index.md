@@ -144,7 +144,7 @@ martin[dot]prell[at]gmx[dot]net
 ## Impressum & Datenschutz
 
 <details>
-  <summary style="cursor:pointer; color:#159957; font-weight:600; text-decoration:underline;"><strong>Impressum</strong></summary>
+  <summary style="cursor:pointer; color:#159957; font-weight:600; text-decoration:underline;">Impressum</summary>
 
   <p><strong>Angaben gemäß § 5 DDG</strong></p>
 
@@ -163,7 +163,7 @@ martin[dot]prell[at]gmx[dot]net
 </details>
 
 <details>
-  <summary style="cursor:pointer; color:#159957; font-weight:600; text-decoration:underline;"><strong>Datenschutzerklärung</strong></summary>
+  <summary style="cursor:pointer; color:#159957; font-weight:600; text-decoration:underline;">Datenschutzerklärung</summary>
 
   <p><strong>Verantwortlicher</strong><br>
     Martin Prell, Anschrift und Kontakt wie im Impressum.
