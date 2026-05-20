@@ -1,6 +1,6 @@
 
 # Martin Prell
-<sup><sub>Dr. phil.</sup></sub>
+<sup>Dr. phil.</sup>
 
 <a rel="me" style="display:none" href="https://fedihum.org/@mprell">Mastodon</a>
 
