@@ -7,7 +7,7 @@
 
 ## Vita
 * seit 2019 DH-Koordination und Data Science im Projekt ["PROPYLÄEN: Forschungsplattform zu Goethes Biographica"](https://goethe-biographica.de/) (Sächsische Akademie der Wissenschaften zu Leipzig / Goethe- und Schiller-Archiv Weimar)
-* 2026 Promotion zum Dr. phil. im Fach Digital Humanities durch die Universität Marburg mit der Dissertationsschrift "Sozioreligiöse Nähe ermitteln: Eine Netzwerkanalyse zur Verortung der pietistischen Gräfin Erdmuthe Benigna von Reuß-Ebersdorf (1670–1732)"
+* 2026 Promotion zum Dr. phil. im Fach Digital Humanities durch die Universität Marburg mit der Arbeit "Sozioreligiöse Nähe ermitteln: Eine Netzwerkanalyse zur Verortung der pietistischen Gräfin Erdmuthe Benigna von Reuß-Ebersdorf (1670–1732)"
 * 2024 [HERMES](https://hermes-hub.de/)-Stipendiat am IEG Mainz
 * 2024 FAIR-Data Stipendiat der [NFDI4Memory](https://4memory.de) am IEG Mainz 
 * 2014–2021 wiss. Mitarbeiter im Bereich Digital Humanities am Lehrstuhl für Geschlechtergeschichte bei Prof. Dr. Gisela Mettele, unter anderem in den DH-Projekten ["Editionenportal Thüringen"](http://www.editionenportal.de/), ["Moravians at Sea"](https://www.moravians-at-sea.uni-jena.de/), ["Automatische Handschriftenerkennung"](https://www.gw.uni-jena.de/fakult%C3%A4t/historisches+institut/bereiche/geschlechtergeschichte/projekte/automatische+handschriftenerkennung+fr%C3%BChneuzeitlicher+briefe+von+frauen), ["Digitale Edition des Reisetagebuchs Heinrichs XI. Reuß-Greiz"](https://www.gw.uni-jena.de/edition_reisetagebuch) und ["Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)](http://erdmuthe.thulb.uni-jena.de)
