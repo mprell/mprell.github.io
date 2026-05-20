@@ -1,5 +1,5 @@
 
-# Martin Prell <br/><sup>Dr. phil.</sup>
+# Martin Prell <br/><sub><sup>Dr. phil.</sup></sub>
 
 ## Aktuelle Projekte
 - [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
