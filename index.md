@@ -45,7 +45,7 @@ ORCID-ID: https://orcid.org/0000-0003-3152-6542
 
 Forschungsdaten: https://github.com/mprell
 
-* (In Vorbereitung) Zus. mit Anna Busch und Torsten Roeder: RIDE-Band zu Crowd Editions.
+* (2026) Zus. mit Anna Busch und Torsten Roeder: RIDE Issue 21: Scholarly Editions (Crowdsourcing). [https://www.doi.org/10.18716/ride.a.21](https://www.doi.org/10.18716/ride.a.21)
 * (2026) Ökologisch und Langlebig – Nachhaltige Digitale Editionen am Beispiel von Moravians@Sea. Conference Paper auf der Tagung des "Digital Humanities im deutschsprachigen Raum e.V.", Wien 2026. DOI: [10.5281/zenodo.18702851](https://doi.org/10.5281/zenodo.18702851).
 * (2025) Abschlussbericht über die erzielten Arbeitsergebnisse des Projektes "Moravians@Sea 2.0". DOI: [10.5281/zenodo.15162541](https://doi.org/10.5281/zenodo.15162541).
 * (2025) Zus. mit Christian Thomas, Katharina Hofmann-Polster und Claudia Häfner: FAIRe Forschungsdaten aus Goethes Posteingang: Die ersten 2400 An-Briefe als TEI-XML-Volltexte. Conference Paper und Poster auf der Tagung des "Digital Humanities im deutschsprachigen Raum e.V.", Bielefeld 2025. DOI Paper: [10.5281/zenodo.14943016](https://zenodo.org/records/14943016); DOI Poster: [10.5281/zenodo.14944569](https://zenodo.org/records/14944569).
