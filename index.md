@@ -1,8 +1,5 @@
 
-# Martin Prell
-<sup>Dr. phil.</sup>
-
-<a rel="me" style="display:none" href="https://fedihum.org/@mprell">Mastodon</a>
+# Martin Prell <br/><sup>Dr. phil.</sup>
 
 ## Aktuelle Projekte
 - [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
