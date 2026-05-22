@@ -1,9 +1,10 @@
 
-# Martin Prell <br/><sub><sup>Dr. phil.</sup></sub>
+<details>
+<summary>Aktuelle Projekte</summary>
 
-## Aktuelle Projekte
 - [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
 - [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
+</details>
 
 ## Vita
 * seit 2019 DH-Koordination und Data Science im Projekt ["PROPYLÄEN: Forschungsplattform zu Goethes Biographica"](https://goethe-biographica.de/) (Sächsische Akademie der Wissenschaften zu Leipzig / Goethe- und Schiller-Archiv Weimar)
