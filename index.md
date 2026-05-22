@@ -13,8 +13,8 @@
 * 2018 Stipendiat des [Deutschen Historischen Institut Washington DC](https://www.ghi-dc.org) für Forschungsaufenthalte in Philadelphia, Washington DC und Bethlehem, PA
 * 2018 Dr.-Lieselotte-Kirchner-Stipendiat der [Franckeschen Stiftungen zu Halle/Saale](https://www.francke-halle.de/de)
 * 2016 Digital-Humanities-Stipendiat des [Forschungsverbunds Marbach-Weimar-Wolfenbüttel](https://www.mww-forschung.de) an der Herzog August Bibliothek Wolfenbüttel
-* 2011–2014 Masterstudium der Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig mit Abschluss Master of Arts
-* 2007–2011 Bachelorstudium der Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena mit Abschluss Bachelor of Arts
+* 2014 Master of Arts im Fach Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig 
+* 2011 Bachelor of Arts in den Fächern Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena
 
 # Forschungsbereiche
 * Digital Humanities (insb. Digital History, Digitale Editorik, Historische Netzwerkanalyse)
