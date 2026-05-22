@@ -26,7 +26,7 @@
 ## Publikationen
 ORCID-ID: [0000-0003-3152-6542](https://orcid.org/0000-0003-3152-6542)
 
-Forschungsdaten: https://github.com/mprell
+Forschungsdaten: [https://github.com/mprell](https://github.com/mprell)
 
 * (2026) Sozioreligiöse Nähe ermitteln: Eine historische Netzwerkanalyse zur Verortung der pietistischen Gräfin Erdmuthe Benigna von Reuß-Ebersdorf (1670–1732). Marburg (Dissertation). DOI: [10.17192/openumr/588](https://doi.org/10.17192/openumr/588); DOI Forschungsdaten: [10.17192/openumr/587](https://doi.org/10.17192/openumr/587).
 * (2026) Zus. mit Anna Busch und Torsten Roeder (Hg.): RIDE Issue 21: Scholarly Editions (Crowdsourcing). DOI: [10.18716/ride.a.21](https://www.doi.org/10.18716/ride.a.21).
