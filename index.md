@@ -17,9 +17,7 @@
 * 2011–2014 Masterstudium der Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig mit Abschluss Master of Arts
 * 2007–2011 Bachelorstudium der Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena mit Abschluss Bachelor of Arts
 
-## Forschung
-
-### Forschungsbereiche:
+## Forschungsbereiche:
 * Digital Humanities (insb. Digital History, Digitale Editorik, Historische Netzwerkanalyse)
 * Frühneuzeitliche Religionsgeschichte (insb. Geschichte des Pietismus)
 * Paläographie (16.–20. Jh.)
