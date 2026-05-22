@@ -1,4 +1,4 @@
-# Aktuelle Projekte</summary>
+# Aktuelle Projekte
 
 * [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
 * [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
