@@ -14,10 +14,8 @@
 * 2018 Stipendiat des [Deutschen Historischen Institut Washington DC](https://www.ghi-dc.org) für Forschungsaufenthalte in Philadelphia, Washington DC und Bethlehem, PA
 * 2018 Dr.-Lieselotte-Kirchner-Stipendiat der [Franckeschen Stiftungen zu Halle/Saale](https://www.francke-halle.de/de)
 * 2016 Digital-Humanities-Stipendiat des [Forschungsverbunds Marbach-Weimar-Wolfenbüttel](https://www.mww-forschung.de) an der Herzog August Bibliothek Wolfenbüttel
-* 2014 Master of Arts an der Universität Leipzig mit einer Arbeit zum Thema "Bernhard Varen (1622–1650) - Pionier einer vergleichenden Religionswissenschaft?", Betreuer: Prof. Dr. Christoph Kleine, Dr. Heinz Mürmel
-* 2011–2014 Masterstudium der Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig
-* 2011 Bachelor of Arts an der Friedrich-Schiller-Universität Jena mit einer Arbeit zum Thema "Landesherrlicher Pietismus unter Graf Heinrich II. (1696–1722) in Reuß-Obergreiz", Betreuer: Juniorprof. Dr. Alexander Schmidt, Prof. Dr. Uwe Schirmer
-* 2007–2011 Bachelorstudium der Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena
+* 2011–2014 Masterstudium der Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig mit Abschluss Master of Arts
+* 2007–2011 Bachelorstudium der Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena mit Abschluss Bachelor of Arts
 
 ## Forschung
 
@@ -61,8 +59,8 @@ Forschungsdaten: https://github.com/mprell
 * (2016) "Diser seelen bestes wollen und mißen wir suchen" - Pietistisches "Weiberregiment" in der Grafschaft Reuß-Ebersdorf und das ,Epochenjahr' 1716, in: Archive in Thüringen. Mitteilungsblatt 2016, 12-16, URL: [http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00277322](http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00277322).
 * (2016) Digitale Edition der "mütterlichen Vermahnungen" der Gräfin Benigna von Solms-Laubach (1717) (= Editiones Electronicae Guelferbytanae), Wolfenbüttel 2016, PURL: [http://diglib.hab.de/edoc/ed000243/start.htm](http://diglib.hab.de/edoc/ed000243/start.htm).
 * (2015) »Den Tauff=Actum beÿ hiesiger Geistlichkeit begehret«. Der Umgang der Stadt Leipzig mit taufwilligen Juden am Beispiel der mutmaßlichen ›Taufbetrüger‹ Rahel Hirschel und Joachim Jacob (1746/47), in: Zeitschrift für junge Religionswissenschaft [Online, peer reviewed] 10 (2015), Online erschienen am: 01 September 2015, DOI: [10.4000/zjr.361](https://doi.org/10.4000/zjr.361).
-* (2014) Bernhard Varen (1622-1650) - Pionier einer vergleichenden Religionswissenschaft?, Masterarbeit Universität Leipzig 2014, DOI: [10.22032/dbt.32738](https://www.db-thueringen.de/receive/dbt_mods_00032738).
-* (2011) Landesherrlicher Pietismus unter Graf Heinrich II. (1696-1722) in Reuß-Obergreiz, Bachelorarbeit Friedrich-Schiller-Universität Jena 2011 (unveröffentlicht).
+* (2014) Bernhard Varen (1622-1650) - Pionier einer vergleichenden Religionswissenschaft?, Masterarbeit Universität Leipzig, Betreuer: Prof. Dr. Christoph Kleine, Dr. Heinz Mürmel. DOI: [10.22032/dbt.32738](https://www.db-thueringen.de/receive/dbt_mods_00032738).
+* (2011) Landesherrlicher Pietismus unter Graf Heinrich II. (1696-1722) in Reuß-Obergreiz, Bachelorarbeit Friedrich-Schiller-Universität Jena, Betreuer: JProf. Dr. Alexander Schmidt, Prof. Dr. Uwe Schirmer (unveröffentlicht).
 
 <!-- Tagungsorganisationen und Vorträge (Auswahl):
 
