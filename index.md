@@ -123,9 +123,6 @@ Wintersemester 2015/16
 martin[dot]prell[at]gmx[dot]net
 
 ---
-
-## Impressum & Datenschutz
-
 <details>
   <summary style="cursor:pointer; color:#159957; font-weight:600; text-decoration:underline;">Impressum</summary>
 
