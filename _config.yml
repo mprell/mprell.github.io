@@ -1,1 +1,11 @@
+title: Martin Prell
+description: Angaben zu Vita, Forschungsschwerpunkten und Publikationen.
+lang: de
+
 theme: jekyll-theme-cayman
+
+url: "https://mprell.github.io"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
