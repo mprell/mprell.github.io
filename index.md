@@ -1,12 +1,10 @@
+# Aktuelle Projekte</summary>
 
-<details>
-<summary>Aktuelle Projekte</summary>
+* [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
+* [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
 
-- [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
-- [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
-</details>
 
-## Vita
+# Vita
 * seit 2019 DH-Koordination und Data Science im Projekt ["PROPYLÄEN: Forschungsplattform zu Goethes Biographica"](https://goethe-biographica.de/) (Sächsische Akademie der Wissenschaften zu Leipzig / Goethe- und Schiller-Archiv Weimar)
 * 2025 Promotion zum Dr. phil. im Fach Digital Humanities durch die Philipps-Universität Marburg
 * 2024 [HERMES](https://hermes-hub.de/)-Stipendiat am IEG Mainz
@@ -18,13 +16,13 @@
 * 2011–2014 Masterstudium der Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig mit Abschluss Master of Arts
 * 2007–2011 Bachelorstudium der Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena mit Abschluss Bachelor of Arts
 
-## Forschungsbereiche
+# Forschungsbereiche
 * Digital Humanities (insb. Digital History, Digitale Editorik, Historische Netzwerkanalyse)
 * Frühneuzeitliche Religionsgeschichte (insb. Geschichte des Pietismus)
 * Paläographie (16.–20. Jh.)
 * Thüringisch-sächsische Landesgeschichte (insb. reußische Grafen- und Fürstentümer)
 
-## Publikationen
+# Publikationen
 ORCID-ID: [0000-0003-3152-6542](https://orcid.org/0000-0003-3152-6542)
 
 Forschungsdaten: [https://github.com/mprell](https://github.com/mprell)
@@ -120,7 +118,7 @@ Wintersemester 2015/16
 * [Editionen](erdmuthe/index.html)
 * [Seegemeine](seaCongregation/index.html) -->
 
-## Kontakt
+# Kontakt
 martin[dot]prell[at]gmx[dot]net
 
 ---
