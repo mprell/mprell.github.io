@@ -1,4 +1,4 @@
-# <span font-variant: small-caps>Aktuelle Projekte</span>
+# <span style="font-variant: small-caps;">Aktuelle Projekte</span>
 
 * [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
 * [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
