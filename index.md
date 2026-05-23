@@ -4,7 +4,7 @@
 * [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
 
 
-# Vita
+# <span style="font-variant: small-caps;">Vita
 * seit 2019 DH-Koordination und Data Science im Projekt ["PROPYLÄEN: Forschungsplattform zu Goethes Biographica"](https://goethe-biographica.de/) (Sächsische Akademie der Wissenschaften zu Leipzig / Goethe- und Schiller-Archiv Weimar)
 * 2025 Promotion zum Dr. phil. im Fach Digital Humanities durch die Philipps-Universität Marburg
 * 2024 [HERMES](https://hermes-hub.de/)-Stipendiat am [Leibniz-Institut für Europäische Geschichte Mainz](https://www.ieg-mainz.de/)
@@ -16,13 +16,13 @@
 * 2014 Master of Arts im Fach Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig 
 * 2011 Bachelor of Arts in den Fächern Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena
 
-# Forschungsbereiche
+# <span style="font-variant: small-caps;">Forschungsbereiche</span>
 * Digital Humanities (insb. Digital History, Digitale Editorik, Historische Netzwerkanalyse)
 * Frühneuzeitliche Religionsgeschichte (insb. Geschichte des Pietismus)
 * Paläographie (16.–20. Jh.)
 * Thüringisch-sächsische Landesgeschichte (insb. reußische Grafen- und Fürstentümer)
 
-# Publikationen
+# <span style="font-variant: small-caps;">Publikationen</span>
 ORCID-ID: [0000-0003-3152-6542](https://orcid.org/0000-0003-3152-6542)
 
 Forschungsdaten: [https://github.com/mprell](https://github.com/mprell)
@@ -118,7 +118,7 @@ Wintersemester 2015/16
 * [Editionen](erdmuthe/index.html)
 * [Seegemeine](seaCongregation/index.html) -->
 
-# Kontakt
+# <span style="font-variant: small-caps;">Kontakt</span>
 martin[dot]prell[at]gmx[dot]net
 
 ---
