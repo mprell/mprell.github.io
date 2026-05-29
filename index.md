@@ -3,24 +3,25 @@
 * [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
 * [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
 
+# <span style="font-variant: small-caps;">Forschungsbereiche</span>
+* Digital Humanities (insb. Digital History, Digitale Editionen, Historische Netzwerkanalyse, Greening DH)
+* Frühneuzeitliche Religionsgeschichte (insb. Geschichte des Pietismus)
+* Paläographie (16.–20. Jh.)
+* Thüringisch-sächsische Landesgeschichte (insb. reußische Grafen- und Fürstentümer)
 
 # <span style="font-variant: small-caps;">Vita
 * seit 2019 DH-Koordination und Data Science im Projekt ["PROPYLÄEN: Forschungsplattform zu Goethes Biographica"](https://goethe-biographica.de/) (Sächsische Akademie der Wissenschaften zu Leipzig / Goethe- und Schiller-Archiv Weimar)
 * 2025 Promotion zum Dr. phil. im Fach Digital Humanities durch die Philipps-Universität Marburg
-* 2024 [HERMES](https://hermes-hub.de/)-Stipendiat am [Leibniz-Institut für Europäische Geschichte Mainz](https://www.ieg-mainz.de/)
-* 2024 FAIR-Data Stipendiat der [NFDI4Memory](https://4memory.de) am [Leibniz-Institut für Europäische Geschichte Mainz](https://www.ieg-mainz.de/)
 * 2014–2021 wiss. Mitarbeiter im Bereich Digital Humanities am Lehrstuhl für Geschlechtergeschichte bei Prof. Dr. Gisela Mettele, unter anderem in den DH-Projekten ["Editionenportal Thüringen"](http://www.editionenportal.de/), ["Moravians at Sea"](https://www.moravians-at-sea.uni-jena.de/), ["Automatische Handschriftenerkennung"](https://www.gw.uni-jena.de/7670/automatische-handschriftenerkennung-fruehneuzeitlicher-briefe-von-frauen), ["Digitale Edition des Reisetagebuchs Heinrichs XI. Reuß-Greiz"](https://www.gw.uni-jena.de/edition_reisetagebuch) und ["Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)](http://erdmuthe.thulb.uni-jena.de)
-* 2018 Stipendiat des [Deutschen Historischen Institut Washington DC](https://www.ghi-dc.org) (Max Weber Stiftung) für Forschungsaufenthalte in Philadelphia, Washington DC und Bethlehem, PA
-* 2018 Dr.-Lieselotte-Kirchner-Stipendiat der [Franckeschen Stiftungen zu Halle/Saale](https://www.francke-halle.de/de)
-* 2016 Digital-Humanities-Stipendiat des [Forschungsverbunds Marbach-Weimar-Wolfenbüttel](https://www.mww-forschung.de) an der Herzog August Bibliothek Wolfenbüttel
 * 2014 Master of Arts im Fach Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig 
 * 2011 Bachelor of Arts in den Fächern Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena
 
-# <span style="font-variant: small-caps;">Forschungsbereiche</span>
-* Digital Humanities (insb. Digital History, Digitale Editorik, Historische Netzwerkanalyse)
-* Frühneuzeitliche Religionsgeschichte (insb. Geschichte des Pietismus)
-* Paläographie (16.–20. Jh.)
-* Thüringisch-sächsische Landesgeschichte (insb. reußische Grafen- und Fürstentümer)
+<span style="font-variant: small-caps;">Aktuelle Projekte</span>
+* 2024 [HERMES](https://hermes-hub.de/)-Stipendiat am [Leibniz-Institut für Europäische Geschichte Mainz](https://www.ieg-mainz.de/)
+* 2024 FAIR-Data Stipendiat der [NFDI4Memory](https://4memory.de) am [Leibniz-Institut für Europäische Geschichte Mainz](https://www.ieg-mainz.de/)
+* 2018 Stipendiat des [Deutschen Historischen Institut Washington DC](https://www.ghi-dc.org) (Max Weber Stiftung) für Forschungsaufenthalte in Philadelphia, Washington DC und Bethlehem, PA
+* 2018 Dr.-Lieselotte-Kirchner-Stipendiat der [Franckeschen Stiftungen zu Halle/Saale](https://www.francke-halle.de/de)
+* 2016 Digital-Humanities-Stipendiat des [Forschungsverbunds Marbach-Weimar-Wolfenbüttel](https://www.mww-forschung.de) an der Herzog August Bibliothek Wolfenbüttel
 
 # <span style="font-variant: small-caps;">Publikationen</span>
 ORCID-ID: [0000-0003-3152-6542](https://orcid.org/0000-0003-3152-6542)
