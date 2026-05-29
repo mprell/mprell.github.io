@@ -16,7 +16,7 @@
 * 2014 Master of Arts im Fach Religionswissenschaft mit Schwerpunkt Religionsgeschichte an der Universität Leipzig 
 * 2011 Bachelor of Arts in den Fächern Geschichte und Religionswissenschaft an der Friedrich-Schiller-Universität Jena
 
-<span style="font-variant: small-caps;">Stipendien</span>
+# <span style="font-variant: small-caps;">Stipendien</span>
 * 2024 [HERMES](https://hermes-hub.de/)-Stipendiat am [Leibniz-Institut für Europäische Geschichte Mainz](https://www.ieg-mainz.de/)
 * 2024 FAIR-Data Stipendiat der [NFDI4Memory](https://4memory.de) am [Leibniz-Institut für Europäische Geschichte Mainz](https://www.ieg-mainz.de/)
 * 2018 Stipendiat des [Deutschen Historischen Institut Washington DC](https://www.ghi-dc.org) (Max Weber Stiftung) für Forschungsaufenthalte in Philadelphia, Washington DC und Bethlehem, PA
