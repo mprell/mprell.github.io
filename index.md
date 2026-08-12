@@ -58,7 +58,7 @@ Forschungsdaten: [https://github.com/mprell](https://github.com/mprell)
 * (2016) Digitale Edition der "mütterlichen Vermahnungen" der Gräfin Benigna von Solms-Laubach (1717) (= Editiones Electronicae Guelferbytanae), Wolfenbüttel 2016, PURL: [http://diglib.hab.de/edoc/ed000243/start.htm](http://diglib.hab.de/edoc/ed000243/start.htm).
 * (2015) »Den Tauff=Actum beÿ hiesiger Geistlichkeit begehret«. Der Umgang der Stadt Leipzig mit taufwilligen Juden am Beispiel der mutmaßlichen ›Taufbetrüger‹ Rahel Hirschel und Joachim Jacob (1746/47), in: Zeitschrift für junge Religionswissenschaft [Online, peer reviewed] 10 (2015), Online erschienen am: 01 September 2015, DOI: [10.4000/zjr.361](https://doi.org/10.4000/zjr.361).
 * (2014) Bernhard Varen (1622-1650) - Pionier einer vergleichenden Religionswissenschaft?, Masterarbeit Universität Leipzig, Betreuer: Prof. Dr. Christoph Kleine, Dr. Heinz Mürmel. DOI: [10.22032/dbt.32738](https://www.db-thueringen.de/receive/dbt_mods_00032738).
-* (2011) Landesherrlicher Pietismus unter Graf Heinrich II. (1696-1722) in Reuß-Obergreiz, Bachelorarbeit Friedrich-Schiller-Universität Jena, Betreuer: JProf. Dr. Alexander Schmidt, Prof. Dr. Uwe Schirmer (unveröffentlicht).
+* (2011) Landesherrlicher Pietismus unter Graf Heinrich II. (1696-1722) in Reuß-Obergreiz, Bachelorarbeit Friedrich-Schiller-Universität Jena, Betreuer: JProf. Dr. Alexander Schmidt, Prof. Dr. Uwe Schirmer. DOI: [10.22032/dbt.71425/dbt.71425](https://doi.org/10.22032/dbt.71425).
 
 <!-- Tagungsorganisationen und Vorträge (Auswahl):
 
