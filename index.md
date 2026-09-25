@@ -2,6 +2,7 @@
 
 * [Moravians at Sea](https://mprell.github.io/moravians-at-sea-Prod/index.html)
 * [PROPYLÄEN: Forschungsplattform zu Goethes Biographica](https://goethe-biographica.de)
+* Nachhaltige Digitale Editionen (Statifizierung, Greening DH, Longevity)
 
 # <span style="font-variant: small-caps;">Forschungsbereiche</span>
 * Digital Humanities (insb. Digital History, Digitale Editionen, Historische Netzwerkanalyse, Greening DH)
