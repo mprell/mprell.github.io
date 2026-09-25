@@ -7,7 +7,6 @@
 # <span style="font-variant: small-caps;">Forschungsbereiche</span>
 * Digitale Editionen
 * Historische Netzwerkanalyse
-* Greening Digital Humanities
 * Frühneuzeitliche Religionsgeschichte (insb. Geschichte des Pietismus)
 * Paläographie (16.–20. Jh.)
 * Thüringisch-sächsische Landesgeschichte (insb. reußische Grafen- und Fürstentümer)
